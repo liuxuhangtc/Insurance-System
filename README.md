@@ -4,7 +4,7 @@
 
 ## Implemented viewing insurance application with NetBeans and employed database with DB40Util for data persistence
 
-
+## Check the PPT for details
 
 
 --- Create and updated by Xuhang Liu, Zichao Tian, Yibei Guo ---
